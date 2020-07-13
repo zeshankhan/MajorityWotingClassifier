@@ -1,4 +1,4 @@
-# Majority voting of Heterogeneous Classifiers for findingabnormalities in the Gastro-Intestinal Tract
+# Majority voting of Heterogeneous Classifiers for finding abnormalities in the Gastro-Intestinal Tract
 # Authors
 Zeshan Khan, Muhammad Atif TahirSchool of Computer Science, National University of Computer and Emerging Sciences, Karachi Campus, Pakistan{zeshan.khan,atif.tahir}@nu.edu.pk
 # ABSTRACT
